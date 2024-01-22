@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on **Web Development**
--  Reach out to me on Mail Id:  *sabatbalaram@gmail.com*
+-  Reach out to me via Mail Id:  *sabatbalaram@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
