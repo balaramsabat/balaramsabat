@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 <h1 align="center">Hi 👋, I'm Balaram Sabat</h1>
 <h2 align="center">Welcome to my profile 👋 </h2> 
 <h3 align="center">A passionate software developer from India</h3>
