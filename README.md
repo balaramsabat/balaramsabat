@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/balaramsabat/balaramsabat/blob/main/content.gif" alt="Hi, I'm Balaram Sabat 👋 I'm a 🚀 Web developer 🚀">
-</p>
 <h1 align="center">Hi 👋, I'm Balaram Sabat</h1>
 <h2 align="center">Welcome to my profile 👋 </h2> 
 <h3 align="center">A passionate software developer from India</h3>
