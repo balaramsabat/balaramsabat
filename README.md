@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Balaram Sabat</h1>
 <h2 align="center">Welcome to my profile 👋 </h2> 
 <h3 align="center">A passionate software developer from India</h3>
+- 🔭 I’m currently working on **Web Development**
 <br>
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height = "40"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height = "40"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, Please reach out to me!</b> :blush:</em>
 <img align="right" alt="GIF" src="https://github.com/balaramsabat/balaramsabat/blob/main/coding.gif?raw=true" width="408" height="318" />
 
-- 🔭 I’m currently working on **Web Development**
--  Reach out to me via Mail Id:  *sabatbalaram@gmail.com*
+<div> <a href = "mailto:sabatbalaram@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/balaram_sabat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balaram_sabat" height="30" width="40" /></a>
