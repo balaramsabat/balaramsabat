@@ -8,7 +8,7 @@
 
 <div> <a href = "mailto:sabatbalaram@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="mailto:sabatbalaram@gmail.com">sabatbalaram@gmail.com</a><br></div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socially Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/balaram_sabat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balaram_sabat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/balaram-sabat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaram-sabat" height="30" width="40" /></a>
