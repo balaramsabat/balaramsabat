@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/balaramsabat/balaramsabat/blob/main/cool.gif?raw=true" width="900" height="270" />
+
 <h1 align="center">Hi 👋, I'm Balaram Sabat</h1>
 <h2 align="center">Welcome to my profile 👋 </h2> 
 <h3 align="center">A passionate software developer from India</h3>
