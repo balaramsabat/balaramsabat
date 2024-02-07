@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Balaram Sabat</h1>
-<h2 align="center">Welcome to my profile 👋 </h2> 
+<h2 align="center">Welcome to my profile  </h2> 
 <h3 align="center">A passionate software developer from India</h3>
 - 🔭 I’m currently working on <b>Web Development</b>
 <br>
