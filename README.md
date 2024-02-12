@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 - 🔭 I’m currently working on <b>Web Development</b>
 <br>
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height = "40"> <em><b> I love connecting with different people</b> so if you want to <b>connect, Please reach out to me!</b> :blush:</em>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height = "40"> <em><b> I love connecting with different people</b> so if you want to <b>connect, Please reach out to me!!</b> :blush:</em>
 <img align="right" alt="GIF" src="https://github.com/balaramsabat/balaramsabat/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 <div> <a href = "mailto:sabatbalaram@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
